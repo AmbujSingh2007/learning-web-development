@@ -1,23 +1,46 @@
-# Landing Page
+# The Odin Project Journey
 
-## Objective
+This repository documents my journey through The Odin Project.
 
-Build a responsive landing page using Flexbox.
+## Goals
 
-## Skills Used
+- Learn HTML, CSS and JavaScript from scratch
+- Build real-world projects
+- Understand Git and GitHub workflows
+- Learn React and Node.js
+- Become a Full Stack Web Developer
 
-- HTML
-- CSS
-- Flexbox
+## Progress
 
-## What I learned
+### Foundations
+- [x] Git Basics
+- [x] HTML Foundations
+- [ ] CSS Foundations
+- [ ] Flexbox
+- [ ] JavaScript Basics
 
-- Flexbox alignment
-- Responsive layouts
-- CSS organization
+### Full Stack JavaScript
+- [ ] Intermediate HTML & CSS
+- [ ] JavaScript
+- [ ] React
+- [ ] Node.js
 
-## Future Improvements
+## Projects
 
-- Dark mode
-- Animations
-- Mobile optimization
+| Project | Status | Demo |
+|---------|--------|------|
+| Recipes | ✅ | Coming Soon |
+| Landing Page | ⏳ | - |
+| Calculator | ⏳ | - |
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+
+## Notes
+
+Every lesson contains my own notes, experiments, and completed assignments.
