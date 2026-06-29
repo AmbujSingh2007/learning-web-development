@@ -1,2 +1,23 @@
-# learning-web-development
-Documenting my journey through The Odin Project, including notes, exercises, projects, and progress toward becoming a full-stack web developer.
+# Landing Page
+
+## Objective
+
+Build a responsive landing page using Flexbox.
+
+## Skills Used
+
+- HTML
+- CSS
+- Flexbox
+
+## What I learned
+
+- Flexbox alignment
+- Responsive layouts
+- CSS organization
+
+## Future Improvements
+
+- Dark mode
+- Animations
+- Mobile optimization
